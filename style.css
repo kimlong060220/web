@@ -36,7 +36,6 @@ div.leftbar a{
 	color: white;	
 	text-decoration: none;
     font-size: 25px;
-    background-color: black;
 }
 div.leftbar a.active{
     display: block;
