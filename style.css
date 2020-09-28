@@ -46,7 +46,7 @@ div.leftbar a:active{
 	font-size: 25px;
     background-color: #66ffff;
 }
-a.active{
+div.leftbar a.active{
     display: block;
 	padding: 8px 16px;
 	color: #000000;	
