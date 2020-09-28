@@ -38,7 +38,7 @@ div.leftbar a{
     font-size: 25px;
     background-color: black;
 }
-div.leftbar a:a{
+div.leftbar a:active{
     display: block;
 	padding: 8px 16px;
 	color: #000000;	
